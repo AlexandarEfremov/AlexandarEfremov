@@ -1,3 +1,3 @@
 ### Hi there 👋 I'm Alex
 
-[![GitHub Streak](https://github-readme-streak-stats-virid-seven.vercel.app?user=AlexandarEfremov&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-virid-seven.vercel.app?user=AlexandarEfremov&theme=github-dark-dimmed&hide_border=true"/>
