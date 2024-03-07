@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex
 
-[![GitHub Streak](https://github-readme-streak-stats-virid-seven.vercel.app?user=AleksandarEfremov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!--
 **AlexandarEfremov/AlexandarEfremov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
