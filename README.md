@@ -11,4 +11,12 @@
 <img align="left" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
 
+### ⚡ GitHub Stats
+
+<div>
+  <img height="160" align="left" alt="AlexandarEfremov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandarEfremov&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandarEfremov&layout=compact&hide_border=true&theme=github_dark_dimmed" />
+</div>
