@@ -18,6 +18,7 @@
 ### ⚡ GitHub Stats
 
 <div>
-  <img height="160" align="left" alt="AlexandarEfremov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandarEfremov&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
+  <img height="160" align="left" alt="AlexandarEfremov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandarEfremov&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800" />
+
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandarEfremov&layout=compact&hide_border=true&theme=github_dark_dimmed" />
 </div>
