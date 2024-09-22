@@ -6,6 +6,7 @@
 
 <p>
   <img alt="Python" width="45px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
+   <img alt="Bash" width="45px" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" style="padding-right:10px;" />
   <img alt="PostgreSQL" width="45px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
   <img alt="Django" width="45px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />
   <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
