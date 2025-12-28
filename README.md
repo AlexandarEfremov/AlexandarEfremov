@@ -14,10 +14,3 @@
   <img alt="Visual Studio Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img alt="Azure" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 </p>
-
-
-### ⚡ GitHub Stats
-
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandarEfremov&layout=compact&hide_border=true&theme=github_dark_dimmed" />
-</div>
