@@ -12,6 +12,6 @@
   <img alt="Django" width="45px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />
   <img alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img alt="Visual Studio Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img alt="Vim" width="45px" src="https://devicon-website.vercel.app/api/vim/original.svg" style="padding-right:10px;" />
   <img alt="Azure" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 </p>
