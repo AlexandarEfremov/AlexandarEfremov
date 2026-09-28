@@ -10,6 +10,7 @@
   <img alt="C" width="45px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" />
   <img alt="C" width="45px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   <img alt="Bash" width="40px" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" style="padding-right:10px;" />
+  <img alt="Bazel" width="48px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.svgcdn.io%2Fmaterial-icon-theme%2Fbazel.png&f=1&nofb=1&ipt=3204008c9480dbd51324101220fd2bff36686669e6b50f857c771983d7ebe490&ipo=images" style="padding-right:10px;" />
   <img alt="PostgreSQL" width="45px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
   <img alt="Django" width="35px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;" />
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
